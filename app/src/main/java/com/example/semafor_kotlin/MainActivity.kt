@@ -36,6 +36,9 @@ class MainActivity : Activity() {
             counter = 0
         }
     }
+/*
+    это было круто
+*/
 
     fun startStop() {
         timer = Timer()
